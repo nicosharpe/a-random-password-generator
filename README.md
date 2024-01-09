@@ -4,7 +4,7 @@ https://nicosharpe.github.io/a-random-password-generator/
 
 I built this password generator to prompt the user, asking questions about desired password length and character types (uppercase, lowercase, numerical and symbols) and then based off the users preferences, the code then makes sure it includes at least one from each category and then fills in the rest at random from the requested categories until the character amount equals the amount the user requested.
 
-<img src=images\Screenshot 2024-01-09 160515.png>
+<img src="images\Screenshot 2024-01-09 160515.png">
 
 # Installation
 N/A
