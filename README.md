@@ -14,7 +14,7 @@ To use this password generator, simply load up the webpage, click the 'Generate 
 
 Upon submitting your prompts a password will be returned which you can then copy and paste. 
 
-** Be sure to make note of and/or memorise your password **
+** Be sure to make safely note of and/or memorise your new password **
 
 # Credits
 N/A
